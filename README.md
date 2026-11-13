@@ -1,2 +1,2 @@
-# Knowledge-Base
+# knowledge-base
 Contains various documents
